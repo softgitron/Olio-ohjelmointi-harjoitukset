@@ -1,0 +1,29 @@
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Home menu</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="home_text_view_title">Text editor:</string>
+    <string name="home_text_view_text">This is an example text for a text view. This text is intended only for testing and should be replaced in final product.</string>
+    <string name="home_text_view_hint">Enter some text here</string>
+    <string name="settings_bold_title">Text is bold:</string>
+    <string name="settings_italic_title">Text is italic:</string>
+    <string name="settings_font_size_title">Font size:</string>
+    <string name="settings_font_style_title">Font type:</string>
+    <string name="settings_font_size_hint">Set font size</string>
+    <string name="settings_font_size_number">18</string>
+    <string name="settings_save_button">Save</string>
+    <string name="settings_is_second_field_enabled_title">Is second field enabled:</string>
+    <string name="settings_display_text_title">Display text:</string>
+    <string name="settings_display_text_hint">Enter your name</string>
+    <string name="settings_language_selector_title">Select your language:</string>
+    <string name="app_name">A</string>
+    <string name="snackbar_settings_saved">Settings saved!</string>
+</resources>

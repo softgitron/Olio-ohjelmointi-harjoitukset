@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_tf">
+        <item>Epätosi</item>
+        <item>Tosi</item>
+    </string-array>
+    <string-array name="spinner_fonts">
+        <item>open_sans</item>
+        <item>tinos</item>
+    </string-array>
+    <string-array name="spinner_languages">
+        <item>Englanti</item>
+        <item>Suomi</item>
+        <item>Ruotsi</item>
+    </string-array>
+</resources>

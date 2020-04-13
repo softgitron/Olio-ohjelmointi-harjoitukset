@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_tf">
+        <item>False</item>
+        <item>True</item>
+    </string-array>
+    <string-array name="spinner_fonts">
+        <item>open_sans</item>
+        <item>tinos</item>
+    </string-array>
+    <string-array name="spinner_languages">
+        <item>English</item>
+        <item>Finish</item>
+        <item>Swedish</item>
+    </string-array>
+</resources>

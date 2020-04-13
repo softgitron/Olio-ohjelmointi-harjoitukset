@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aktiviteetti Harjoitus</string>
+    <string name="navigation_drawer_open">Avaa navigointi valikko</string>
+    <string name="navigation_drawer_close">Sulje navigointi valikko</string>
+    <string name="nav_header_title">Kotivalikko</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigaatio otsake</string>
+    <string name="action_settings">Asetukset</string>
+    <string name="menu_home">Koti</string>
+    <string name="menu_settings">Asetukset</string>
+    <string name="home_second">Koti toinen</string>
+    <string name="home_text_view_title">Tekstinmuokkaaja:</string>
+    <string name="home_text_view_text">Tämä on esimerkki teksti tekstikenttää varten. Tämä teksti on tarkoitettu ainoastaan testausta varten ja se tulee vaihtaa ennen julkaisua.</string>
+    <string name="home_text_view_hint">Kirjoita jotain tekstiä tähän</string>
+    <string name="settings_bold_title">Teksti on korostettu</string>
+    <string name="settings_italic_title">Teksti on kursivoitu</string>
+    <string name="settings_font_size_title">Tekstin koko</string>
+    <string name="settings_font_style_title">Tekstin tyyli</string>
+    <string name="settings_font_size_hint">Aseta teskstin tyyli</string>
+    <string name="settings_font_size_number">18</string>
+    <string name="settings_save_button">Tallenna</string>
+    <string name="settings_is_second_field_enabled_title">Onko toinen kenttä kirjoitettavissa</string>
+    <string name="settings_display_text_title">Näytettävä teksti</string>
+    <string name="settings_display_text_hint">Kirjoita nimesi</string>
+    <string name="settings_language_selector_title">Valitse kieli</string>
+    <string name="snackbar_settings_saved">Asetukset tallennettu!</string>
+</resources>
